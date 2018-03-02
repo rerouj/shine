@@ -1,2 +1,2 @@
 # shine
-Stars shine in the sky
+Stars shining in the sky.

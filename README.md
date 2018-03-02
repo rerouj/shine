@@ -1,2 +1,2 @@
 # Shine
-Stars shining in the sky.
+JS Stars shining in the sky.

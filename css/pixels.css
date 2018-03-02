@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+#box{
+    left:0px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+div#pixel:hover{
+    transform: scale(10);
+}
